@@ -2,24 +2,27 @@
 
 GAIS-Net: Geometry-Aware Instance Segmentation with Disparity Maps, Wu, Cho-Ying and Hu, Xiaoyan and Happold, Michael and Xu, Qiangeng and Neumann, Ulrich, CVPR Workshop on Scalability in Autonomous Driving, 2020.
 
-[Project site](https://choyingw.github.io/works/GAIS-Net/index.html)
+Please visit out [Project site](https://choyingw.github.io/works/GAIS-Net/index.html) for paper and intorduction.
 
 This project is developed upon [Mask-RCNN] (https://github.com/facebookresearch/maskrcnn-benchmark)
 
 <img src='teaser.png'>
 
+Feature: Resolve overlapping areas between instances by introducing geometry information
+
+
 # Installation
 
 Check [INSTALL.md](INSTALL.md) for installation instructions.
 
-cocoapi, cityscapesScripts, and apex are needed for the evaluation.
+Note that cocoapi, cityscapesScripts, and apex are needed for the evaluation.
 
 
 # Implementation
 
-The geometry-aware fusion module is implemented under [roi_heads.py](maskrcnn_benchmark/modeling/roi_heads/roi_heads.py) [mask_head.py](maskrcnn_benchmark/modeling/roi_heads/mask_head/mask_head.py) [maskiou_head.py] (maskrcnn_benchmark/modeling/roi_heads/maskiou_head/maskiou_head.py)
+The geometry-aware fusion module is implemented under [roi_heads.py](maskrcnn_benchmark/modeling/roi_heads/roi_heads.py) [mask_head.py](maskrcnn_benchmark/modeling/roi_heads/mask_head/mask_head.py) [maskiou_head.py](maskrcnn_benchmark/modeling/roi_heads/maskiou_head/maskiou_head.py)
 
-Check these files and folders for the feature.
+Check these files and related files for the features we implement.
 
 # Data
 
