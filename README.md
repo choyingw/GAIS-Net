@@ -4,7 +4,7 @@ GAIS-Net: Geometry-Aware Instance Segmentation with Disparity Maps, Wu, Cho-Ying
 
 Please visit out [Project site](https://choyingw.github.io/works/GAIS-Net/index.html) for paper and intorduction.
 
-This project is developed upon [Mask-RCNN](https://github.com/facebookresearch/maskrcnn-benchmark)
+This project is developed upon [Mask-RCNN](https://github.com/facebookresearch/maskrcnn-benchmark) and is done during an internship at [Argo AI](https://www.argo.ai/)
 
 <img src='teaser.png'>
 
@@ -40,6 +40,9 @@ python -m torch.distributed.launch --nproc_per_node=$NUM_GPUS ./tools/test_net.p
 
 The pretrained weights could be downloaded [here](https://drive.google.com/file/d/1ZETFaG_xxw0NsX8S9Tj10Rp-XwQNsenf/view?usp=sharing) put the .pth file under "ckpt/"
 
+
+# Citations
+
 If you find the work useful, please condisder to cite:
 
 	@inproceedings{wu2020Cvprw,
@@ -48,3 +51,7 @@ If you find the work useful, please condisder to cite:
 	booktitle={CVPR Workshop on Scability in Autonomous Driving},
 	year={2020}
 	}
+
+# Thanks to the Third Parties
+
+Thank [Mask-RCNN](https://github.com/facebookresearch/maskrcnn-benchmark) and [Mask Scoring RCNN](https://github.com/zjhuang22/maskscoring_rcnn)
