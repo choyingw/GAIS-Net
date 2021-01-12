@@ -40,6 +40,11 @@ python -m torch.distributed.launch --nproc_per_node=$NUM_GPUS ./tools/test_net.p
 
 The pretrained weights could be downloaded [here](https://drive.google.com/file/d/1ZETFaG_xxw0NsX8S9Tj10Rp-XwQNsenf/view?usp=sharing) put the .pth file under "ckpt/"
 
+# Results
+
+<img src='Qualitative.png'>
+<img src='results.png'>
+
 
 # Citations
 
