@@ -4,9 +4,9 @@ GAIS-Net: Geometry-Aware Instance Segmentation with Disparity Maps, Wu, Cho-Ying
 
 **Advantage:** 
 
-** \+ The first work to directly regress instances from depth maps to advance the multi-modal learning for outdorr scenario.**
+**\+ The first work to directly regress instances from depth maps to advance the multi-modal learning for outdorr scenario.**
 
-** \+ High performance and higly modulized. The codes are based on the mask-rcnn benchmark framework.**
+**\+ High performance and higly modulized. The codes are based on the mask-rcnn benchmark framework.**
 
 Please visit out [Project site](https://choyingw.github.io/works/GAIS-Net/index.html) for paper and intorduction.
 
