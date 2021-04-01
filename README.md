@@ -6,9 +6,9 @@ Wu, Cho-Ying and Hu, Xiaoyan and Happold, Michael and Xu, Qiangeng and Neumann, 
 
 **Advantage:** 
 
-**\+ The first work to directly regress instances from depth maps to advance the multi-modal learning for outdorr scenario.**
+**\+ The first work to directly regress instances from depth maps to advance the multi-modal learning for outdoor scenarios.**
 
-**\+ High performance and higly modulized. The codes are based on the mask-rcnn benchmark framework.**
+**\+ High performance and highly modulized. The codes are based on the mask-rcnn benchmark framework.**
 
 Please visit out [Project site](https://choyingw.github.io/works/GAIS-Net/index.html) for paper and intorduction.
 
