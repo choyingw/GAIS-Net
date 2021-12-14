@@ -2,13 +2,13 @@
 
 GAIS-Net: Geometry-Aware Instance Segmentation with Disparity Maps
 
-Wu, Cho-Ying and Hu, Xiaoyan and Happold, Michael and Xu, Qiangeng and Neumann, Ulrich, CVPR Workshop on Scalability in Autonomous Driving, 2020.
+Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Quangeng Xu, Ulrich Neumann, CVPR Workshop on Scalability in Autonomous Driving, 2020.
 
 **Advantage:** 
 
-**\+ The first work to directly regress instances from depth maps to advance the multi-modal learning for outdoor scenarios.**
+**:+1: The first work to directly regress instances from depth maps to advance the multi-modal learning for outdoor scenarios.**
 
-**\+ High performance and highly modulized. The codes are based on the mask-rcnn benchmark framework.**
+**:+1: High performance and highly modulized. The codes are based on the mask-rcnn benchmark framework.**
 
 Please visit out [Project site](https://choyingw.github.io/works/GAIS-Net/index.html) for paper and intorduction.
 
