@@ -2,7 +2,7 @@
 
 GAIS-Net: Geometry-Aware Instance Segmentation with Disparity Maps
 
-Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Quangeng Xu, Ulrich Neumann, CVPR Workshop on Scalability in Autonomous Driving, 2020.
+Cho-Ying Wu, Xiaoyan Hu, Michael Happold, Qiangeng Xu, Ulrich Neumann, CVPR Workshop on Scalability in Autonomous Driving, 2020.
 
 **Advantage:** 
 
